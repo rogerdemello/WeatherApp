@@ -1,6 +1,3 @@
-# WeatherApp
- A lightweight weather app built with HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
-
 🌤 Simple Weather App
 
 A lightweight weather app built with HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
@@ -11,8 +8,9 @@ A lightweight weather app built with HTML, CSS, and JavaScript that fetches real
 ✔ User-friendly interface with a responsive design
 ✔ Fetches real-time data using JavaScript and Fetch API
 🔧 Setup Instructions
-Get a free API key from OpenWeatherMap.
-Clone this repository:
+
+    Get a free API key from OpenWeatherMap.
+    Clone this repository:
 
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
